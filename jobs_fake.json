@@ -1,0 +1,23 @@
+[
+  {
+    "job_id": 1001,
+    "name": "JOB_CLIENTE_DIARIO",
+    "pause_status": "PAUSED",
+    "app": "app_financeiro",
+    "dominio": "dados"
+  },
+  {
+    "job_id": 1002,
+    "name": "JOB_VENDAS_HORA",
+    "pause_status": "UNPAUSED",
+    "app": "app_vendas",
+    "dominio": "comercial"
+  },
+  {
+    "job_id": 1003,
+    "name": "JOB_RISCO_15MIN",
+    "pause_status": "UNPAUSED",
+    "app": "app_risco",
+    "dominio": "monitoramento"
+  }
+]
